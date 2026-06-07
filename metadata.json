@@ -1,0 +1,8 @@
+{
+  "name": "KYA Presence",
+  "description": "Native Android app for KYA Presence edge attendance system, with offline SQLite storage, secure token configuration, and high-brightness QR badge generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
